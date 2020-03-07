@@ -19021,3 +19021,6 @@
 
 # [zynga.com]
 127.0.0.1 log-collector.svctr.zynga.com
+
+# [cheap-ads.net]
+127.0.0.1 verycheap.cheap-ads.net
